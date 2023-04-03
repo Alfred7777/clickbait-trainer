@@ -1,0 +1,5 @@
+__pycache__/*
+**/__pycache__/*
+venv/*
+model/*
+w2v_model/*
